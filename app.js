@@ -6,7 +6,7 @@
 const appDiv = document.querySelector('#app');
 const form = document.querySelector('#formulario');
 const listaTbody = document.querySelector('tbody');
-const titulo = 'Lista Dinámica en ES6';
+const titulo = 'Lista Dinámica con Javascript Vanilla';
 const firstnameInput = document.querySelector('#firstname');
 const lastnameInput = document.querySelector('#lastname');
 const ageInput = document.querySelector('#age');
