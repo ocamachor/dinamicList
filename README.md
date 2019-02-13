@@ -22,6 +22,6 @@ This code contains an example of a Dynamic list in html using Javascript Vanilla
 * persistence in LocalStorage.
 * Javascript Vanilla (ES6)
 * Bootstrap
-* Add and remove Items (records) and update both in the *** localStorage *** and in the Vista (html)
+* Add and remove Items (records) and update both in the ***localStorage*** and in the Vista (html)
 
 *I hope it will be you useful *
